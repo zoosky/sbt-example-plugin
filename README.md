@@ -1,4 +1,4 @@
-# sbt-example-plugin-
+# sbt-example-plugin
 
 Run
 
